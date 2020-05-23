@@ -1,24 +1,7 @@
-# README
+# 問題点
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+・表示時間がUTFになってしまっている
+・多対多の図解がないと分かりづらすぎる
+・他の人のツイートの編集画面に飛ぶ時の挙動がおかしい
+・ヘッダーのハンバーガーメニューが機能しない
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
